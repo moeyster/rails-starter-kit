@@ -45,3 +45,6 @@ group :development do
   gem 'spring'
 end
 
+# Front end stuff
+gem 'bootstrap-sass', '~> 3.3.6'
+gem 'sprockets-rails', :require => 'sprockets/railtie'
