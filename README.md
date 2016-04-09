@@ -7,9 +7,11 @@ Things that have been setup in this app:
 
 Gems:
 - For running tests
-  - cucumber-rails
-  - rspec-rails
-  - database_cleaner
+  - cucumber-rails (for writing front end and controller test cases: https://github.com/cucumber/cucumber-rails )
+  - rspec-rails (for writing model test cases: https://github.com/rspec/rspec-rails)
+  - database_cleaner (to clear tests database: https://github.com/DatabaseCleaner/database_cleaner)
 - Front-end stuff
-  - bootstrap-sass
-  - sprockets-rails
+  - bootstrap-sass (to use bootstrap front end stuff: https://github.com/ryanb/letter_opener)
+  - sprockets-rails (pre installed when initialized rails app)
+- Development tools
+  -letter_opener (to test emails: https://github.com/ryanb/letter_opener)
