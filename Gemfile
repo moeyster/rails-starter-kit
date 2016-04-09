@@ -55,3 +55,6 @@ end
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 gem 'font-awesome-sass', '~> 4.5.0'
+
+# For custom and multiple themes
+gem 'themes_on_rails'
