@@ -13,5 +13,6 @@ Gems:
 - Front-end stuff
   - bootstrap-sass (to use bootstrap front end stuff: https://github.com/ryanb/letter_opener)
   - sprockets-rails (pre installed when initialized rails app)
+  - font-awesome-sass (icon and css toolkit: https://github.com/FortAwesome/font-awesome-sass )
 - Development tools
   -letter_opener (to test emails: https://github.com/ryanb/letter_opener)
