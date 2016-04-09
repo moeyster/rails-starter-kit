@@ -1,4 +1,5 @@
-# rails-starter-kit
+## Rails Starter Kit
+### Information
 A basic rails starter app template that has has the basic gems and configurations
 
 Things that have been setup in this app:
@@ -19,3 +20,16 @@ Gems:
   - letter_opener (to test emails: https://github.com/ryanb/letter_opener)
 - Authentication
   - devise (simple and flexible user authentication: https://github.com/plataformatec/devise)
+
+## Getting started
+Install the gems by running:
+```console
+bundle
+```
+By doing so, this will install the list of gems listed above.
+
+Next run
+```console
+rake db:migrate
+```
+This creates the tables and its columns in your database.
