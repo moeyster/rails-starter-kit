@@ -17,3 +17,5 @@ Gems:
   - themes_on_rails (for custom multiple themes: https://github.com/yoolk/themes_on_rails)
 - Development tools
   - letter_opener (to test emails: https://github.com/ryanb/letter_opener)
+- Authentication
+  - devise (simple and flexible user authentication: https://github.com/plataformatec/devise)
