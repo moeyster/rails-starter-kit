@@ -61,3 +61,6 @@ gem 'themes_on_rails'
 
 # For user authentication
 gem 'devise'
+
+# For image uploading
+gem 'carrierwave'
