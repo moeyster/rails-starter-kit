@@ -18,8 +18,13 @@ Gems:
   - themes_on_rails (for custom multiple themes: https://github.com/yoolk/themes_on_rails)
 - Development tools
   - letter_opener (to test emails: https://github.com/ryanb/letter_opener)
+  - dotenv (to store environment variables for local dvelopment: https://github.com/bkeepers/dotenv)
 - Authentication
   - devise (simple and flexible user authentication: https://github.com/plataformatec/devise)
+- Image uploaders
+  - carrierwave (allows file uploads: https://github.com/carrierwaveuploader/carrierwave)
+  - mini_magick (for image resizing and cropping: https://github.com/minimagick/minimagick)
+  - fog (to upload images to S3: https://github.com/fog/fog)
 
 ## Getting started
 Install the gems by running:

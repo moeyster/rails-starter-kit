@@ -38,6 +38,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'cucumber-rails', :require => false
   gem 'database_cleaner'
+  gem 'dotenv-rails'
 end
 
 group :development do
@@ -64,3 +65,5 @@ gem 'devise'
 
 # For image uploading
 gem 'carrierwave'
+gem "mini_magick"
+gem "fog"
