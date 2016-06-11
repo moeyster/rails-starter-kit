@@ -1,6 +1,6 @@
 ## Rails Starter Kit
 ### Information
-A basic rails starter app template that has has the basic gems and configurations
+A basic rails starter app template that has has the basic gems and configurations for any foundation or starter app
 
 Things that have been setup in this app:
 
