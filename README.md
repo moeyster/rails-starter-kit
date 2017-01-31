@@ -5,6 +5,8 @@ A basic rails starter app template that has has the basic gems and configuration
 Things that have been setup in this app:
 
 - Database: Mysql2
+- Ruby version: 2.3.3
+- Rails version: 4.2.6
 
 Gems:
 - For running tests
